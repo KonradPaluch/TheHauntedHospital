@@ -1,0 +1,15 @@
+For the file to read, there has to be a whole path to it
+Template:
+//room 0 0
+
+string description 1
+string description 2
+string description 3
+string old moves (e.g. NSW)
+string new moves (e.g. NSWE)
+bool action done (false)
+bool action possible (sometimes true)
+bool affects itself
+char action to do
+int affected room's row
+int affected room's column
