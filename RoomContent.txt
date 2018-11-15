@@ -4,7 +4,7 @@ d3 room 0 0 0
 SE
 SE
 0
-1
+0
 1
 D
 0
@@ -13,9 +13,9 @@ d2 room 0 1 0
 d3 room 0 1 0
 SWE
 SWE
+0
 1
-1
-1
+0
 D
 0
 0d1 room 0 2 0
@@ -86,10 +86,99 @@ NW
 0
 1
 1
-U
+D
 0
+0d1 room 0 0 1
+d2 room 0 0 1
+d3 room 0 0 1
+ES
+ES
 0
-For the file to read, there has to be a whole path to it
+1
+1
+D
+0
+0d1 room 0 1 1
+d2 room 0 1 1
+d3 room 0 1 1
+WSE
+WSE
+0
+1
+1
+D
+0
+0d1 room 0 2 1
+d2 room 0 2 1
+d3 room 0 2 1
+WS
+WS
+0
+1
+1
+D
+0
+0d1 room 1 0 1
+d2 room 1 0 1
+d3 room 1 0 1
+NES
+NES
+0
+1
+1
+D
+0
+0d1 room 1 1 1
+d2 room 1 1 1
+d3 room 1 1 1
+NSWE
+NSWE
+0
+1
+1
+D
+0
+0d1 room 1 2 1
+d2 room 1 2 1
+d3 room 1 2 1
+NWS
+NWS
+0
+1
+1
+D
+0
+0d1 room 2 0 1
+d2 room 2 0 1
+d3 room 2 0 1
+NE
+NE
+0
+1
+1
+D
+0
+0d1 room 2 1 1
+d2 room 2 1 1
+d3 room 2 1 1
+WNE
+WNE
+0
+1
+1
+D
+0
+0d1 room 2 2 1
+d2 room 2 2 1
+d3 room 2 2 1
+NW
+NW
+0
+1
+1
+D
+0
+For the file to read, there has to be a whole path to it, maybe change of directory can help
 Template:
 //room 0 0
 string description 1

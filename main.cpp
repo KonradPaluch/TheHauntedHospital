@@ -187,9 +187,9 @@ void takeMake(room oRooms[3][3][2], int &iPlayerRow, int &iPlayerCol, int &iPlay
  */
 void game(room oRooms[3][3][2]) {
     cout << "In this game, you make decisions by typing in the first letter of the action you want to do, \nor the letter of the direction you want to go to.\n\n";
-    int iPlayerRow = 0;
-    int iPlayerCol = 1;
-    int iPlayerLevel = 0;
+    int iPlayerRow = 2;
+    int iPlayerCol = 2;
+    int iPlayerLevel = 1;
     int iBleedingOut = 0;
     while (!oRooms[0][0][0].bActionDone) {
         //timer 
