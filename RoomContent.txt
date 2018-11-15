@@ -1,7 +1,97 @@
+d1 room 0 0 0
+d2 room 0 0 0
+d3 room 0 0 0
+SE
+SE
+0
+1
+1
+D
+0
+0d1 room 0 1 0
+d2 room 0 1 0
+d3 room 0 1 0
+SWE
+SWE
+1
+1
+1
+D
+0
+0d1 room 0 2 0
+d2 room 0 2 0
+d3 room 0 2 0
+WS
+WS
+0
+0
+0
+D
+0
+0d1 room 1 0 0
+d2 room 1 0 0
+d3 room 1 0 0
+NSE
+NSE
+0
+1
+1
+D
+0
+0d1 room 1 1 0
+d2 room 1 1 0
+d3 room 1 1 0
+NSEW
+NSEW
+0
+1
+1
+D
+0
+0d1 room 1 2 0
+d2 room 1 2 0
+d3 room 1 2 0
+NSW
+NSW
+0
+1
+1
+D
+0
+0d1 room 2 0 0
+d2 room 2 0 0
+d3 room 2 0 0
+NE
+NE
+0
+1
+1
+D
+0
+0d1 room 2 1 0
+d2 room 2 1 0
+d3 room 2 1 0
+WNE
+WNE
+0
+1
+1
+D
+0
+0d1 room 2 2 0
+d2 room 2 2 0
+d3 room 2 2 0
+NW
+NW
+0
+1
+1
+U
+0
+0
 For the file to read, there has to be a whole path to it
 Template:
 //room 0 0
-
 string description 1
 string description 2
 string description 3
