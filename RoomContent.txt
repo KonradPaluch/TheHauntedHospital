@@ -2,7 +2,7 @@ You reached the elevator, maybe it can bring you to some place where there are s
 It’s the elevator again. Just to be sure you push the buttons anyway, but the elevator still doesn’t seem to work and you don’t know enough mechanics to fix it.
 You reached the elevator, the guy who you gave the medicine was saying that he used to be an electrician. Maybe he can help you make the elevator working. ASK for help?
 The man rearranged some cables, closed the terminal and said "It should work just fine now."
-The elevator is working. You can only go DOWN.
+You are at level 1. You can only go DOWN.
 S
 S
 0 0 0 1
@@ -19,11 +19,11 @@ T 2 1
 0Nothing.
 Nothing.
 From the window next to the door you already see that this is the delivery room. You crawl in with your leg still hurting and bleeding. You can still see the blood spread over the operation table, a baby was probably recently delivered here and they didn’t have any time to clean up since they had to get out of the hospital as fast as possible. There is not that much that you can use inside the room but a cloth, to wrap around the newborn babies. Maybe you can wrap it around your leg to stop the bleeding and safe some time. Will you USE the cloth?
-You wrap the cloth around your leg as tightly as you can. You still don’t feel like you can walk but the bleeding stopped.
+You wrap the cloth around your wound as tightly as you can. The bleeding stopped, but your leg still hurts a lot.
 You go back to the delivery room. The blood on the operation table doesn’t make it the cleanest place to stay at with your wound, even with the cloth already wrapped around it.
 W
 W
-0 1 1 0
+0 1 0 1
 U 3 3
 3It is friday. You are slowly waking up, trying to remember what happened. Last thing you recall is a huge crash. You feel the medicines wearing off as you open your eyes. There is blood and bullet holes on the walls and some people lying around dead. You see the last patients run away from this room and barricade the doors leading to safety. You try to shout and call for help but they’re all too panicked to hear you. You try to get up, but you feel like your leg is about to explode from pain, blood dripping out of a terrible wound. You don’t want to sit and wait for your death, so you may as well go and look for something to help with your leg. Maybe you will also find some people who need help. As you hope to don’t run into the shooter, you get out of the stretcher you were brought in and go to explore the hospital.
 You are back into the hallway where you started. Where will you go next?
@@ -46,8 +46,8 @@ T 2 2
 0Empty.
 Empty.
 It's an empty room. All you can do is go back to the previous room.
-Nope, still nothing.
-You trickster, gotta try it all don't you???
+Well well well, we got a smart buddy over here.
+Yeah you got me, i like that letter. And ups the fourth wall is gone, but let's go back to the story.
 S
 S
 0 1 0 1
@@ -63,7 +63,7 @@ N
 R 3 3
 3The door you chose seems to be open. You crawl to it and notice the four beds. You hear someone breathing with difficulty and notice that there is still an unconscious man lying in one of the beds. There are some tubes coming out of his body, but he seems to be alive. There is not really that much you can do to help him so you leave him there.
 It is the room with the hospital beds again. The man with all the tubes is still there, but because of your leg you can’t carry him anywhere. You leave him be and turn around.
-You are back in the room with the hospital beds. The man is still asleep, what makes it hard to help him out. Suddenly you remember the medicine you found in a plastic bag on the ground in the pharmacy. You take it out and look at it again. You open it and see a description of the drug inside. Apparently it's a wake-up kind of medicine. This might help. You know that it is not the best idea using medicine that was not prescribed to you, but it might be your only chance to help this guy since everybody already ran out of the hospital and you don’t have the strength to carry him out. Do you GIVE it to him?
+You are in the room with hospital beds. The man on one of the beds is asleep and he has tubes connected to him, which makes it hard to help him out. Suddenly you remember the medicine you found in a plastic bag on the ground in the pharmacy. You take it out and look at it again. You open it and see a description of the drug inside. Apparently it's a wake-up kind of medicine. This might help. You know that it is not the best idea using medicine that was not prescribed to you, but it might be your only chance to help this guy since everybody already ran out of the hospital and you don’t have the strength to carry him out. Do you GIVE it to him?
 You give him the medicine and wait a while. You almost give up until you suddenly hear the man cough. He slowly opens his eyes and you are just glad you didn’t kill him. He looks at you, while still having the difficulty with opening his eyes. You try telling him everything that happened in the hospital, fast enough because you are running out of time, but slow enough for him not to get freaked out to quickly. "Thank you", he says. "Give me some time to get out of this bed and free myself from all of these tubes and then i’ll see what i can do to help us both get out of here safely".
 You got back in the room with the hospital beds. Since the man already freed himself from all the tubes all the beds are empty and there is not that much more you can do here.
 EN
@@ -76,14 +76,14 @@ You approach the locked door and see that the terminal next to it may match the 
 You take the cell phone and put it in your pocket. You notice it probably must've fallen out of the hand of a huge man in a black suit, when he was shot straight between the eyes. He doesn't look at all like other hospital employees. Maybe later you will find something useful on the phone.
 You are back at the employee's room. You open the door with your keycard, but since you already took the cell phone there is not that much else to do here. Maybe you will find something somewhere else. Do not give up hope yet!
 W
-W
+NW
 0 0 0 0
 T 0 1
 1Nothing.
 Nothing.
 Nothing.
 Nothing.
-The man you helped before is still in the elevator. You can go DOWN or UP.
+You are at level -1. You can go DOWN or UP.
 SE
 SE
 1 0 0 0
@@ -119,7 +119,7 @@ Z 3 3
 Nothing.
 Nothing.
 Nothing.
-The man you helped before is still in the elevator. You can only go UP.
+You are at level -2. You can only go UP.
 SE
 SE
 1 0 0 0
