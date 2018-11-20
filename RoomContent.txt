@@ -1,31 +1,31 @@
-You reached the elevator, maybe it can bring you to some place where there are still people left to help you with your leg so that you can get out of the hospital. You get into the elevator but when you try to pull yourself up to push the button of the second floor, you notice that the elevator is out of order.
+You reached the elevator, you hope that on other levels there are other survivors who could help you get ouf of the hospital. You get into the elevator but when you try to push the buttons, you notice that the elevator is out of order. You don't know what to do to fix it.
 It’s the elevator again. Just to be sure you push the buttons anyway, but the elevator still doesn’t seem to work and you don’t know enough mechanics to fix it.
-You reached the elevator, the guy who you gave the medicine was saying that he used to be an electrician. Maybe he can help you make the elevator working. ASK for help?
-The man rearranged some cables, closed the terminal and said "It should work just fine now."
-You are at level 1. You can only go DOWN.
+You reached the elevator. The guy who you gave the medicine was saying that he used to be an electrician. Maybe he can help you make the elevator working. (A)SK for help?
+The man looks rearranges some cables, closes the terminal and says "It should work just fine now."
+You are at level 1. You can only go (D)OWN.
 S
 S
 0 0 0 1
 A 3 3
 3Nothing.
 Nothing.
-You’re at the pharmacy. The doors leading behind the counter are locked. The plastic bag with the medicine is laying on the ground. Do you want to TAKE it with you?
-You pick up the bag of pills and try to read the etiquette. It says "Modafinil". Not really knowing what do to with it you put it in your pocket.
-You’re back at the pharmacy. Since you already took the medicine with you and since you can’t cross the counter, there is not that much here to do anymore.
+You’re at the pharmacy. The doors leading behind the counter are locked. The plastic bag with the medicine is laying on the ground. Do you want to (T)AKE it with you?
+You pick up the bag of pills and try to read the etiquette. It says "Modafinil". Not really knowing what it does, you put it in your pocket.
+You’re back at the pharmacy. You already took the medicine with you and since you can’t cross the counter, there isn't much to do.
 SE
 SE
 0 1 0 0
 T 2 1
 0Nothing.
 Nothing.
-From the window next to the door you already see that this is the delivery room. You crawl in with your leg still hurting and bleeding. You can still see the blood spread over the operation table, a baby was probably recently delivered here and they didn’t have any time to clean up since they had to get out of the hospital as fast as possible. There is not that much that you can use inside the room but a cloth, to wrap around the newborn babies. Maybe you can wrap it around your leg to stop the bleeding and safe some time. Will you USE the cloth?
+From the window next to the door you already see that this is the delivery room. You walk in limping, with your leg still hurting and bleeding. You can see the blood spread over the operation table, a baby was probably recently delivered here and they didn’t have any time to clean up since they had to get out of the hospital as fast as possible. There isn't much that you can use inside the room but a cloth, to wrap around the newborn babies. Maybe you can wrap it around your leg to stop the bleeding and save some time. Will you (U)SE the cloth?
 You wrap the cloth around your wound as tightly as you can. The bleeding stopped, but your leg still hurts a lot.
 You go back to the delivery room. The blood on the operation table doesn’t make it the cleanest place to stay at with your wound, even with the cloth already wrapped around it.
 W
 W
 0 1 0 1
 U 3 3
-3It is friday. You are slowly waking up, trying to remember what happened. Last thing you recall is a huge crash. You feel the medicines wearing off as you open your eyes. There is blood and bullet holes on the walls and some people lying around dead. You see the last patients run away from this room and barricade the doors leading to safety. You try to shout and call for help but they’re all too panicked to hear you. You try to get up, but you feel like your leg is about to explode from pain, blood dripping out of a terrible wound. You don’t want to sit and wait for your death, so you may as well go and look for something to help with your leg. Maybe you will also find some people who need help. As you hope to don’t run into the shooter, you get out of the stretcher you were brought in and go to explore the hospital.
+3It is friday. You are slowly waking up, trying to remember what happened. Last thing you recall is a huge crash. You feel the medicines wearing off as you open your eyes. There is blood and bullet holes on the walls and some people lying around dead. You see the last patients run away from this room and barricade the doors leading to the safety. You try to shout and call for help but they’re all too panicked to hear you. You try to get up, but you feel like your leg is about to explode from pain, blood dripping out of a terrible wound. You don’t want to sit and wait for your death, so you may as well go and look for something to help with your leg. Maybe you will also find some people who need help. As you hope to don’t run into the shooter, you get out of the stretcher you were brought in and go to explore the hospital.
 You are back into the hallway where you started. Where will you go next?
 Nothing.
 Nothing.
@@ -36,7 +36,7 @@ NSE
 Z 3 3
 3Nothing.
 Nothing.
-This door is rather big. When you enter, you see tables and chairs. Some tables are still full of half eaten food and you can still smell the fish from today’s menu. You crawl around the cafeteria, trying to find anything useful, but then you stop because you feel something under your left hand. It is a keycard with a photo of a woman, probably one of the nurses. Do you want to TAKE it with you?
+This door is rather big. When you enter, you see tables and chairs. There are two nurses' bodies in the chairs, they weren't quick enough to escape the death. Some tables are still full of half eaten food and you can still smell the fish from today’s menu. You take a look around the cafeteria, trying to find anything useful, but then you stop because you feel something under your left foot. It is a keycard with a photo of a woman, probably one of the nurses. Do you want to (T)AKE it with you?
 You pick up the keycard and put it in your pocket. Hopefully it will be useful later.
 You are back in the cafeteria. You look around but there is nothing more that could help you.
 NSW
@@ -46,24 +46,24 @@ T 2 2
 0Empty.
 Empty.
 It's an empty room. All you can do is go back to the previous room.
-Well well well, we got a smart buddy over here.
-Yeah you got me, i like that letter. And ups the fourth wall is gone, but let's go back to the story.
+Well well well, we got a smart "buddy" over here.
+Yeah you got me, i like that letter. Ooops the fourth wall is gone, but let's go back to the story.
 S
 S
 0 1 0 1
 K 3 3
 3Nothing.
 Nothing.
-This door is the door to the men’s bathroom. You go inside and notice a roll of toilet paper that rolled through the entire toilet, probably because people were in such hurry to get out of the hospital. The toilet paper might be useful later. Will you ROLL it and take with you?
-You spend some time rolling the toilet paper back together. You really think it may be useful?
+This door is the door to the men’s bathroom. You go inside and notice a roll of toilet paper that rolled through the entire toilet, probably because people were in such hurry to get out of the hospital. The toilet paper might be useful later. Will you (R)OLL it and take with you?
+You spend some time rolling the toilet paper back together. You really think it may be useful? The shooter is going around the hospital probably looking for you and your leg is hurting a lot.
 This is the men’s toilet again. You already took the toilet paper and you don’t see that many other things to do here other than going to the toilet, but who would have time for that when your life is in danger.
 N
 N
 0 1 0 1
 R 3 3
-3The door you chose seems to be open. You crawl to it and notice the four beds. You hear someone breathing with difficulty and notice that there is still an unconscious man lying in one of the beds. There are some tubes coming out of his body, but he seems to be alive. There is not really that much you can do to help him so you leave him there.
+3The door you chose seems to be open. You walk to it and notice four beds. You hear someone breathing with difficulty and notice that there is still an unconscious man lying in one of the beds. There are some tubes coming out of his body, but he seems to be alive. There is not really that much you can do to help him so you leave him there.
 It is the room with the hospital beds again. The man with all the tubes is still there, but because of your leg you can’t carry him anywhere. You leave him be and turn around.
-You are in the room with hospital beds. The man on one of the beds is asleep and he has tubes connected to him, which makes it hard to help him out. Suddenly you remember the medicine you found in a plastic bag on the ground in the pharmacy. You take it out and look at it again. You open it and see a description of the drug inside. Apparently it's a wake-up kind of medicine. This might help. You know that it is not the best idea using medicine that was not prescribed to you, but it might be your only chance to help this guy since everybody already ran out of the hospital and you don’t have the strength to carry him out. Do you GIVE it to him?
+You are in the room with hospital beds. The man on one of the beds is unconscious and he has tubes connected to him, which makes it hard to help him out. Suddenly you remember the medicine you found in a plastic bag on the ground in the pharmacy. You take it out and look at it again. You open it and see a description of the drug inside. Apparently it's a wake-up kind of medicine. This might help. You know that it is not the best idea to use a medicine that was not prescribed to you, but it might be your only chance to help this guy since everybody else ran out of the hospital and you don’t have the strength to carry him out. Do you (G)IVE it to him?
 You give him the medicine and wait a while. You almost give up until you suddenly hear the man cough. He slowly opens his eyes and you are just glad you didn’t kill him. He looks at you, while still having the difficulty with opening his eyes. You try telling him everything that happened in the hospital, fast enough because you are running out of time, but slow enough for him not to get freaked out to quickly. "Thank you", he says. "Give me some time to get out of this bed and free myself from all of these tubes and then i’ll see what i can do to help us both get out of here safely".
 You got back in the room with the hospital beds. Since the man already freed himself from all the tubes all the beds are empty and there is not that much more you can do here.
 EN
@@ -72,7 +72,7 @@ EN
 G 0 0
 0You approach the door but notice that it seems to be locked. You see the electronic scanner. Maybe you need some sort of keycard to enter this room. Since there is no sign that says anything about the room, you have no idea what is behind the door. You try putting your ear against the door to listen, but it doesn’t give you any information whatsoever about what could be inside the room.
 The doors are still locked. Maybe a keycard would let you enter.
-You approach the locked door and see that the terminal next to it may match the keycard you found earlier. The one you found on the ground of the cafeteria. You pull yourself up and hold the card with the woman's photo next to the scanner. ‘Beep’, a red light. The door is still locked, but because you really are curious of what's inside the room and don’t feel like giving up hope just yet, you try it again. Suddenly the terminal gives the ‘Beep’ not once, but twice. You see a green light and you hear the ‘click’ of the doors lock opening itself. You push against the door and when you enter, you see the comfortable couches, half empty cups of coffee on a table and on one of the tables a mobile cellphone. This must be the employees room, you think as you crawl to the cellphone and look at it for a minute. It is not locked with any code and it might come in handy later somehow. Do you want to TAKE it?
+You approach the locked door and see that the terminal next to it may match the keycard you found earlier. The one you found on the ground of the cafeteria. You hold the card with the woman's photo next to the scanner. ‘Beep’, a red light. The door is still locked, but because you really are curious of what's inside the room and don’t feel like giving up hope just yet, you try it again. Suddenly the terminal gives the ‘Beep’ not once, but twice. You see a green light and you hear the ‘click’ of the doors lock opening itself. You push against the door and when you enter, you see bodies lying on comfortable couches, half empty cups of coffee on a table and a mobile cellphone on the floor. This must be the employees room, you think as you walk to the cellphone and look at it for a minute. It is not locked with any code and it might come in handy later somehow. Do you want to (T)AKE it?
 You take the cell phone and put it in your pocket. You notice it probably must've fallen out of the hand of a huge man in a black suit, when he was shot straight between the eyes. He doesn't look at all like other hospital employees. Maybe later you will find something useful on the phone.
 You are back at the employee's room. You open the door with your keycard, but since you already took the cell phone there is not that much else to do here. Maybe you will find something somewhere else. Do not give up hope yet!
 W
@@ -83,14 +83,14 @@ T 0 1
 Nothing.
 Nothing.
 Nothing.
-You are at level -1. You can go DOWN or UP.
+You are at level -1. You can go (D)OWN or (U)P.
 SE
 SE
 1 0 0 0
 Z 3 3
 3This room is wide open. It is nicely decorated, completely unlike the other hospital rooms. A lot of prices and pictures hang on the walls. You suppose it's the directors room. Two more black-suited man lie dead on the floor. Under the director's table you see a safe with a note "Phone" attached to it's side. You don't know what it could mean.
 You enter the room, trying to don't look at the frightened expressions the men had when they saw death approaching. You approach the safe trying out a few combinations, but nothing works.
-The doors are wide open. The room is nicely decorated, completely unlike the other hospital rooms. A lot of prices and pictures hang on the walls. It must be the directors room. Two more black-suited man lie dead on the floor. Under the director's table you see a safe with a note "Phone" attached to it's side. You remember that you took a phone from the hand of a man very similar to the ones in this room. You can INVESTIGATE the phone.
+The doors are wide open. The room is nicely decorated, completely unlike the other hospital rooms. A lot of prices and pictures hang on the walls. It must be the directors room. Two more black-suited man lie dead on the floor. Under the director's table you see a safe with a note "Phone" attached to it's side. You remember that you took a phone from the hand of a man very similar to the ones in this room. You can (I)NVESTIGATE the phone.
 You open the phone and look through the open apps. You see that there is one message left on the phone. As you open it, you hear a voice of a man, shaking, who says "He is coming for me! He must've found out! Stop eating and come here you idiot! I am going to the hidden room, Rodrigo and Hector will wait for you here, open the safe with 2011 and take the keys to that wall in cell I told you about!". After that you only here the heavy breathing of the man as he runs out of the room and shouts some orders. He finally hangs up after some time. You open the safe and see a weirdly shaped object. It must be the key the man was talking about. You take it.
 You enter the room as you look at the bodies of supposedly Rodrigo and Hector, but there is nothing more to do here.
 W
@@ -99,7 +99,7 @@ W
 I 1 1
 2Nothing.
 Nothing.
-You enter an operating room. Some of the medical staff didn't have much luck escaping the shooter as they lie around the tables. In hand of one of the doctors you see a big scalpel. Maybe it will be of any use when you meet the shooter. Do you TAKE it?
+You enter an operating room. Some of the medical staff didn't have much luck escaping the shooter as they lie around the tables. In hand of one of the doctors you see a big scalpel. Maybe it will be of any use when you meet the shooter. Do you (T)AKE it?
 You take the scalpel, being very careful not to hurt yourself as it is very sharp.
 There is nothing more to do in this room and the smell of blood makes you feel sick. Where do you go?
 N
@@ -119,7 +119,7 @@ Z 3 3
 Nothing.
 Nothing.
 Nothing.
-You are at level -2. You can only go UP.
+You are at level -2. You can only go (U)P.
 SE
 SE
 1 0 0 0
@@ -133,10 +133,10 @@ W
 W
 1 0 0 0
 Z 3 3
-3This door is heavy, you are not sure why until you open it. The room looks like a cell with cushion lining the walls, and two hooks on opposite walls. You didn’t even know there was a place like this in the hospital. There is a woman in a straitjacket, connected to one of the hooks. She is screaming in a language you don’t really understand: “¡Él viene, el que me dará mi tercer ojo, corre si puedes, corre!“. They must have forgotten her in their hurry to get out of the hospital. There is probably a reason why the woman is on restrains, but it would not really be moral to leave her there. You don’t know how to get her out of the restrains though, they seem pretty tight so you are going to have to leave her for now.
+3This door is heavy, you are not sure why until you open it. The room looks like a cell, with cushion lining the walls, and two hooks on opposite walls. You didn’t even know there was a place like this in the hospital. There is a woman in a straitjacket, connected to one of the hooks. She is screaming in a language you don’t really understand: “¡Él viene, el que me dará mi tercer ojo, corre si puedes, corre!“. They must have forgotten her in their hurry to get out of the hospital. There is probably a reason why the woman is on restrains, but it wouldn't really be moral to leave her there. You don’t know how to get her out of the restrains though, they seem pretty tight so you are going to have to leave her for now.
 The woman keeps on screaming, but there isn't much you can do about it.
-You have to push very hard to open the doors. You see a padded cell with two hooks on opposite walls. A woman in a straitjacket is tied to one of them. You didn’t even know there was a place like this in the hospital.She is screaming, but you don't understand it: "¡Él viene, el que me dará mi tercer ojo, corre si puedes, corre!". They must've had a good reason to leave her like this, but maybe she is just innocent. You think you can use the scalpel you found earlier to destroy her restraints. Do you want to CUT her free?
-As soon as she realizes she is free, the woman pushes you away and runs away. You can still hear her screaming, as she runs around the corridors.
+You have to push very hard to open the doors. You see a padded cell with two hooks on opposite walls. A woman in a straitjacket is tied to one of them. You didn’t even know there was a place like this in the hospital. She is screaming, but you don't understand it: "¡Él viene, el que me dará mi tercer ojo, corre si puedes, corre!". They must've had a good reason to leave her like this, but maybe she is just innocent. You think you can use the scalpel you found earlier to destroy her restraints. Do you want to (C)UT her free?
+As soon as she realizes she is free, the woman pushes you and runs away. You can still hear her screaming, as she runs around the corridors.
 The padded cell, now empty and quiet is a frightening sight. Where do you want to go?
 NE
 NE
@@ -144,7 +144,7 @@ NE
 C 3 3
 3Nothing.
 You inspect the walls of the cell, but there isn't much to see. They are all lined with cushion and there is nothing you can do with them.
-You recall the message from the safe, and the phone one. You take out the key you found and look for an opening in the wall. You find one hole in a shape of this object. Do you TRY to open the door?
+You recall the message from the safe, and the phone one. You take out the key you found and look for an opening in the wall. You find one hole in a shape of this object. Do you (T)RY to open the door?
 The key fits perfectly and the hidden door open smoothly. You take a look and step inside.
 Nothing.
 W

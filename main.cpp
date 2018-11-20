@@ -1,5 +1,4 @@
 /*
- *
  * Marie-lou Yvette Memelink
  * Konrad Damian Paluch
  * "The Haunted Hospital"
@@ -235,11 +234,13 @@ void takeMake(room oRooms[3][3][3], int &iPlayerRow, int &iPlayerCol, int &iPlay
  */
 void endGame(bool bSavedher){
     if (!bSavedher){
+        cout << "\n\n\n\n\n\n\n\n\n";
         cout << "You find yourself at the entrance to a laboratory. This laboratory however, seems to have tables with restraints. There are shelves on the wall with glass jars on them, holding different colors of human eyes. Bags of blood are hanging on the wall. \n\nIn the corner you see an opening in the floor, there is noise coming from it. Maybe it is someone who needs your help. You walk to the corner and notice that there are stairs going down. Slowly you get down the stairs not knowing what you will find when you get there. The first thing you see is a little girl, pale and restrained in the middle of the room. She looks at the wall with her lifeless eyes. She doesn’t react at all as you slowly walk into the room. You hear the noise again, footsteps from beyond the shelves behind the girl. You go forward, trying to make as little noise as possible. In front of you, you see the hospital’s director, and the man with a gun, pointed at the director. You take one step more, mesmerized by the scene, and you knock over a little jar. \nAs it breaks, the shooter looks at you. The director was just waiting for this moment. He leaps forward trying to hit the shooter in the head with a little knife he was hiding in his pocket. But the shooter is faster. He fires rapidly multiple times. The first bullet hits the head, next ones make the holes in director's entire body. As he shoots he keeps screaming “She was my little girl, how could you do it to her!!! My girl, my little girl!”. \n\nThen he stops and looks at you. You try to run away but his last bullet hits you right in your stomach. You collapse to the ground and see the shooter approaching you with the knife. “You were one of his assistants weren’t you? For monsters like you death is a too merciful punishment”, he whispers as he slits your throat open. The world turns dark.\n\n\n\n" << endl;
     }
     else {
         cout << "You find yourself at the entrance to a laboratory. This laboratory however, seems to have tables with restraints. There are shelves on the wall with glass jars on them, holding different colors of human eyes. Bags of blood are hanging on the wall. \n\nIn the corner you see an opening in the floor, there is noise coming from it. Maybe it is someone who needs your help. You walk to the corner and notice that there are stairs going down. Slowly you get down the stairs not knowing what you will find when you get there. The first thing you see is a little girl, pale and restrained in the middle of the room. She looks at the wall with her lifeless eyes. She doesn’t react at all as you slowly walk into the room. You hear the noise again, footsteps from beyond the shelves behind the girl. You go forward, trying to make as little noise as possible. In front of you, you see the hospital’s director, and the man with a gun, pointed at the director. You take one step more, mesmerized by the scene, and you knock over a little jar. \nAs it breaks, the shooter looks at you and starts aiming in your direction. \nHowever at the same moment, the woman you freed earlier runs into the room, screaming horribly. She runs straight at the shooter. The director was just waiting for this moment. He leaps forward and tries to hit the shooter in the head with the little knife he was hiding in his pocket. It all happens so fast. The woman get's hit in the head with a bullet, another one almost hits you as you throw yourself at the ground. The director reached the man and started hitting with the knife. \nYou try to stand up and run away, but then the director sees you, and turns to you with a sinister smile. He says “What an incident huh? You sure wouldn't like to remember it. Just as I wouldn't like you to remember it. But don't worry, you don't have to die.”. \nHe approaches you with the knife and as he is close to you, he hits you in the head with the gun's handle. You fall to the ground. He takes out a syringe and injects a medicine in your arm. ”No more memories, my dear, you kinda helped me her, so I'll help you too”. The world turns dark, as you see him approach the little girl and laugh quietly. \n\n\nYou wake up in a hospital bed. Your leg is hurting a bit, but it looks nicely patched up. A nurse enters the room. She says ”Oh how nice that you woke up mister, you had a bad accident. You may experience some bad memories, maybe even illusions, but don't worry, it will all pass”. She leaves the room and you look outside the window. It was all a dream right? It must've been a dream.\n\n" << endl;
     }
+    cout << "\n\n\n\n Congratulations, you have finished the game. Now you will return to the menu. " << endl;
 }
 
 /*
@@ -251,7 +252,7 @@ void game(room oRooms[3][3][3]) {
     char cCheck;
     do {
         cin.clear();
-        cout << "In this game, you make decisions by typing in the first letter of the action (in bold) you want to do (action will be in BOLD), \nor the letter of the direction you want to go to, like N S E W. \nLet's give it a try. Do you want to CONTINUE?\n\n";
+        cout << "In this game, you make decisions by typing in the first letter of the action you want to do (action will be in BOLD), \nor the letter of the direction you want to go to, like N S E W. We suggest to play with CAPS LOCK on. \nLet's give it a try. (C)ONTINUE?\n\n";
         cin >> cCheck;
     }
     while (cCheck != 'C');
@@ -313,6 +314,5 @@ int main(){
                 break;
         }
     }
-    cout << oRooms[0][1][0].sDescActionPossible;
     return 0;
 }
